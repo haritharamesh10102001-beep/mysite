@@ -1,1 +1,11 @@
 https://mechismail.github.io/practice2-webpage/index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=https://haritharamesh10102.wixstudio.io/mysite">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting to <a href="https://haritharamesh10102.wixstudio.io/mysite">your Wix site</a>...</p>
+</body>
+</html>
